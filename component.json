@@ -1,0 +1,9 @@
+{
+  "name": "chai-jquery",
+  "repo": "chaijs/chai-jquery",
+  "version": "1.1.1",
+  "main": "chai-jquery.js",
+  "scripts": [
+    "chai-jquery.js"
+  ]
+}
