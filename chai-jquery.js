@@ -1,6 +1,6 @@
 (function (chaiJquery) {
   // Module systems magic dance.
-  if (typeof require === "function" && typeof exports === "object" && typeof module === "object") {
+  if (typeof require === "function" && typeof exports === "object" && typeof module !== "undefined") {
     // NodeJS
     module.exports = chaiJquery;
   } else if (typeof define === "function" && define.amd) {
